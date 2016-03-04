@@ -1,0 +1,94 @@
+{
+  "albums": [
+    {
+      "id": 1000,
+      "artist": "Ramones",
+      "name": "Ramones",
+      "image": "/images/ramones-ramones.jpg"
+    },
+    {
+      "id": 1001,
+      "artist": "Ramones",
+      "name": "Leave Home",
+      "image": "/images/ramones-leave-home.jpg"
+    },
+    {
+      "id": 1002,
+      "artist": "Ramones",
+      "name": "Rocket to Russia",
+      "image": "/images/ramones-rocket-to-russia.jpg"
+    },
+    {
+      "id": 1003,
+      "artist": "Ramones",
+      "name": "Road to Ruin",
+      "image": "/images/ramones-road-to-ruin.jpg"
+    },
+    {
+      "id": 1004,
+      "artist": "Ramones",
+      "name": "End of the Century",
+      "image": "/images/ramones-end-of-the-century.jpg"
+    },
+    {
+      "id": 1005,
+      "artist": "Ramones",
+      "name": "Pleasant Dreams",
+      "image": "/images/ramones-pleasant-dreams.jpg"
+    },
+    {
+      "id": 1006,
+      "artist": "Ramones",
+      "name": "Subterranean Jungle",
+      "image": "/images/ramones-subterranean-jungle.jpg"
+    },
+    {
+      "id": 1007,
+      "artist": "Ramones",
+      "name": "Too Tough to Die",
+      "image": "/images/ramones-too-tough-to-die.jpg"
+    },
+    {
+      "id": 1008,
+      "artist": "Ramones",
+      "name": "Animal Boy",
+      "image": "/images/ramones-animal-boy.jpg"
+    },
+    {
+      "id": 1009,
+      "artist": "Ramones",
+      "name": "Animal Boy",
+      "image": "/images/ramones-animal-boy.jpg"
+    },
+    {
+      "id": 1010,
+      "artist": "Ramones",
+      "name": "Halfway to Sanity",
+      "image": "/images/ramones-halfway-to-sanity.jpg"
+    },
+    {
+      "id": 1011,
+      "artist": "Ramones",
+      "name": "Brain Drain",
+      "image": "/images/ramones-brain-drain.jpg"
+    },
+    {
+      "id": 1012,
+      "artist": "Ramones",
+      "name": "Mondo Bizarro",
+      "image": "/images/ramones-mondo-bizarro.jpg"
+    },
+    {
+      "id": 1013,
+      "artist": "Ramones",
+      "name": "Acid Eaters",
+      "image": "/images/ramones-acid-eaters.jpg"
+    },
+    {
+      "id": 1014,
+      "artist": "Ramones",
+      "name": "Adios Amigos",
+      "image": "/images/ramones-adios-amigos.jpg"
+    }
+  ]
+}
